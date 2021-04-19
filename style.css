@@ -1,0 +1,13 @@
+.container {
+  max-width: 950px;
+  margin: 0 auto;
+  text-align: center;
+}
+.flex-box {
+  margin-top: 2em;
+  display: flex;
+  justify-content: space-around;
+}
+img:hover {
+  box-shadow: 6px 6px 6px green;
+}
